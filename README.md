@@ -24,4 +24,4 @@ The dataset includes **customer purchase data with multiple attributes** such as
 - Visualized **sales distribution and purchasing trends**.
 
 ## Dashboard
-![Customer Dashboard](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1773506647917-0zotfodke.png)
+![Customer Dashboard](Customer_Shopping_Behavior_Dashboard.png)
