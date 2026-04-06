@@ -1,4 +1,4 @@
-> # Customer Shopping Behavior Dashboard
+# Customer Shopping Behavior Dashboard
 
 ## Overview
 This project analyzes customer purchasing data to identify shopping patterns and spending behavior. The dashboard helps visualize customer preferences and sales distribution across product categories.
